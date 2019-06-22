@@ -1,0 +1,12 @@
+ul li{
+	display: inline-block;
+	margin-left: 152px;
+	border: 2px;
+  
+	width: 74px;
+	font-style: italic;
+	font-weight: bold;
+}
+ul li a{
+	text-decoration: none;
+}

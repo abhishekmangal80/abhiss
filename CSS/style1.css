@@ -1,0 +1,16 @@
+ul li{
+	display: inline-block;
+  border: 5px;
+  width: 110px;
+  height: 30px;
+  float: left;
+  margin-top:  -29px;
+  font-size: 21px;
+  font-weight: bolder;
+  font-style: italic;
+ 
+  }
+  ul li a
+{ text-decoration: none;
+
+}
